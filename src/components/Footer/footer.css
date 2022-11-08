@@ -1,0 +1,25 @@
+.conteiner{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    bottom: 0;
+    color: grey;
+}
+
+
+.container-footer{
+    display: flex;
+    
+
+}
+
+
+.newsletter{
+    width: 35%;
+    height: 250px;
+    display: grid;
+    align-items: center;
+    padding: 40px;
+    
+}
+
